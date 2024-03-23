@@ -1,1 +1,1 @@
-# CSPrompt
+# SCPrompt
