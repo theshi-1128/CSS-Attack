@@ -1,3 +1,7 @@
+dataset/
+judgement/model/
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
