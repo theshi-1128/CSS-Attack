@@ -14,7 +14,7 @@
 
 
 
-classliblgraph_python_api.AccessLevel
+class liblgraph_python_api.AccessLevel
 
     Access that a user has on a graph.
 
